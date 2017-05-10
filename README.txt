@@ -5,7 +5,7 @@ I DO NOT CLAIM ANY RESPONSIBILITY FOR PEOPLE COPING MY CODE UNDER ANY CIRCUMSTAN
 
 COMPILATION  INSTUCTION :
 
-run in terminal: java Server portnumber\
-	   then: java User host portnumber\
+run in terminal: java EchoServer portnumber\
+	   then: java EchoUser host portnumber\
        
            start chatting!
